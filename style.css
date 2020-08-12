@@ -27,7 +27,7 @@
         font-size: 1.3rem!important;
         text-align: left!important;
     }
-    .big-text, .bullets, .bio, .gold, .projects, .contact, .h-left, .h-right{
+    .big-text, .bullets, .bio, .gold, .projects, .contact, .h-left, .h-right, .header{
         position: static!important;
         transform: none!important;
     }
@@ -222,6 +222,11 @@ a{
 .hfi-frame{
     border: 1px solid goldenrod;
 }
+
+.s-video{
+    width: 100%;
+}
+
 .technologies img{
     height: 60px;
     width: auto;
